@@ -1,0 +1,6 @@
+﻿  HraciaPlocha.cpp
+c:\users\marek\source\repos\arkanoid_final\server\sdlprojektarkanoid\sdlprojektarkanoid\hraciaplocha.cpp(30): warning C4101: 'udalost': unreferenced local variable
+c:\users\marek\source\repos\arkanoid_final\server\sdlprojektarkanoid\sdlprojektarkanoid\hraciaplocha.cpp(126): warning C4101: 'prijate': unreferenced local variable
+c:\users\marek\source\repos\arkanoid_final\server\sdlprojektarkanoid\sdlprojektarkanoid\hraciaplocha.cpp(210): warning C4101: 'prijate': unreferenced local variable
+c:\users\marek\source\repos\arkanoid_final\server\sdlprojektarkanoid\sdlprojektarkanoid\hraciaplocha.cpp(209): warning C4101: 'iSendResult': unreferenced local variable
+  Server.vcxproj -> C:\Users\marek\source\repos\Arkanoid_final\Server\SDLprojektArkanoid\x64\Debug\Server.exe
